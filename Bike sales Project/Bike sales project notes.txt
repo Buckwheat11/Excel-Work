@@ -1,0 +1,16 @@
+excel proejct steps
+
+create extra worksheets like working sheet
+
+clean data - remove duplicates - 26 remvoed
+ctrl H to chnage M to married etc 
+m to male, f female, s single using ctrl h find and replace all
+
+change income field type to currency
+
+create if statemnt to create age categories for age gorup. so <31 = adolescent, >=31 = middle age . anythign esle, invalid, over 54 is old using nsted
+if statement  =IF(L2>54,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescent","Invalid")))
+
+creating pivot tables, charts 
+
+ctrl H change 10+ miles column and replace all to 'More than 10 Miles' in order to make it make it appear in ASC order as 10+ miles was not in order and cauing chart distortion
