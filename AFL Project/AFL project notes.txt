@@ -19,3 +19,7 @@ turn off get pviot data by selecting pivot table analyse and options to turn it 
 when copying piuvot table data into a kpi slot on same sheet, used this after dispalying get pivot data  =TEXT(A127,"#,##") -- must use "#,##"
 
 dataset:  https://www.kaggle.com/datasets/stoney71/aflstats
+
+-- Helpful tutorial
+
+https://www.youtube.com/watch?v=1ic8E58Bo2M
